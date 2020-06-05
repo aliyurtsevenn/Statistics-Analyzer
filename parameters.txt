@@ -1,0 +1,11 @@
+1	Type 0 (if you want regression analysis of your data), Type 1 (if you want hypothesis testing analysis of your data)	#-
+0	Type 0 (if your data is dependent), Type 1 (if your data is independent)	#-
+4	Type population mean	#You can type population mean if you have only one group sample and you compare the of your sample with population
+0	Type 0 (If you have categorical data and if you compare each category with the continous variables) Type 1 If you want to compare only the continuous variables. 
+1	Type column number of categorical group you choose as dependent so that we can compare this with the continuous variables.
+/home/a/Desktop/result.xlsx	Please type the path where you want your output in the result excell file!
+/home/a/Desktop/projects/statistics_analyzer/data_analyze.xlsx	Please type the directory of your data!
+
+
+
+
